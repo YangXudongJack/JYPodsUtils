@@ -1,0 +1,6 @@
+framework module JYPodsUtils {
+  umbrella header "JYPodsUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

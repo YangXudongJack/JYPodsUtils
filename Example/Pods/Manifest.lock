@@ -1,0 +1,16 @@
+PODS:
+  - JYPodsUtils (0.1.0)
+
+DEPENDENCIES:
+  - JYPodsUtils (from `../`)
+
+EXTERNAL SOURCES:
+  JYPodsUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JYPodsUtils: ccae6fa42e0c1df6d8f46a80953183e166578547
+
+PODFILE CHECKSUM: b44a198f34ffa6ae5a43ad96cd0fd3ba30ccdcaf
+
+COCOAPODS: 1.7.2

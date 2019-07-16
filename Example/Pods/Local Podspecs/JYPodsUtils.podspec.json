@@ -1,0 +1,22 @@
+{
+  "name": "JYPodsUtils",
+  "version": "0.1.0",
+  "summary": "first commit",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YangXudongJack/JYPodsUtils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JackYangGitHub@163.com": "yangxudong@xylink.com"
+  },
+  "source": {
+    "git": "https://github.com/YangXudongJack/JYPodsUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JYPodsUtils/Classes/**/*"
+}
