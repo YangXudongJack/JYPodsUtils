@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JYPodsUtils_Example' do
+  pod 'JYPodsUtils', :path => '../'
+
+  target 'JYPodsUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
